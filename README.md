@@ -1,26 +1,19 @@
-# DALL-E in Pytorch
+# INDI A.I in Pytorch
 
-<p align='center'>
-  <a href="https://colab.research.google.com/gist/afiaka87/b29213684a1dd633df20cab49d05209d/train_dalle_pytorch.ipynb">
-         <img alt="Train DALL-E w/ DeepSpeed" src="https://colab.research.google.com/assets/colab-badge.svg">
-  </a>
-  <a href="https://discord.gg/xBPBXfcFHd"><img alt="Join us on Discord" src="https://img.shields.io/discord/823813159592001537?color=5865F2&logo=discord&logoColor=white"></a></br>
-  <a href="https://github.com/robvanvolt/DALLE-models">Released DALLE Models</a></br>
-  <a href="https://github.com/rom1504/dalle-service">Web-Hostable DALLE Checkpoints</a></br>
 
-  <a href="https://www.youtube.com/watch?v=j4xgkjWlfL4">Yannic Kilcher's video</a>
-<p>
-Implementation / replication of <a href="https://openai.com/blog/dall-e/">DALL-E</a> (<a href="https://arxiv.org/abs/2102.12092">paper</a>), OpenAI's Text to Image Transformer, in Pytorch.  It will also contain <a href="https://openai.com/blog/clip/">CLIP</a> for ranking the generations.
+
+  >
+.
 
 ---
 
 
 
-[Quick Start](https://github.com/lucidrains/DALLE-pytorch/wiki)
 
-<a href="https://github.com/lucidrains/deep-daze">Deep Daze</a> or <a href="https://github.com/lucidrains/big-sleep">Big Sleep</a> are great alternatives!
 
-For generating video and audio, please see <a href="https://github.com/lucidrains/nuwa-pytorch">NÜWA</a>
+<a href="https://github.com/lucidrains/deep-daze">Deep Daze</a> or <a href="</a> are great alternatives!
+
+For generating video and audio, please see <a href="
 
 ## Appreciation
   
